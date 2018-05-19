@@ -8,6 +8,10 @@ public class DrawRectanglesExample extends Applet{
 				
 		g.drawRect(10,10,50,100);
 		
+
 		
+
+		g.drawRect(100,100,50,50);
+
 	}
 }
